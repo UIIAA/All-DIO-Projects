@@ -1,5 +1,5 @@
-# Dio.ApiCurso
-##  A game Catalog Api 
+# A game Catalog Api 
+
 Please use it on .Net 5.0 >
 I was using it in 3.1 and new midleWare HttpJson Responses, do not work On It.
 
